@@ -1,2 +1,2 @@
 @echo off
-pm2 start D:\campusAutoAuth\index.js
+node D:\campusAutoAuth\index.js
